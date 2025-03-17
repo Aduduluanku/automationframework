@@ -1,0 +1,54 @@
+[INFO ] 2025-03-14 19:23:42.590 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 19:23:44.854 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 19:23:45.155 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 19:23:45.155 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 19:23:45.155 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 19:23:45.155 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 19:35:37.604 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 19:35:40.150 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 19:35:40.452 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 19:35:40.452 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 19:35:40.452 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 19:35:40.452 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 19:45:07.802 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 19:45:11.110 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 19:45:11.403 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 19:45:11.403 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 19:45:11.404 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 19:45:11.404 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 19:59:23.596 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 19:59:26.960 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 19:59:27.256 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 19:59:27.256 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 19:59:27.256 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 19:59:27.256 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 20:22:11.079 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 20:22:23.237 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 20:22:24.045 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 20:22:24.045 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 20:22:24.045 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 20:22:24.045 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 20:36:39.014 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 20:36:50.385 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 20:36:50.707 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 20:36:50.707 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 20:36:50.708 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 20:36:50.708 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 20:37:22.035 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 20:37:24.368 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 20:37:24.685 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 20:37:24.686 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 20:37:24.686 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 20:37:24.686 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 20:42:01.793 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 20:42:05.213 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 20:42:06.002 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 20:42:06.002 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 20:42:06.002 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 20:42:06.002 [main] BaseTest - Test Fatal
+[INFO ] 2025-03-14 21:01:26.998 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-03-14 21:01:30.505 [main] BaseTest - Navigated to test site: https://demo1.cybersoft.edu.vn/
+[INFO ] 2025-03-14 21:01:30.808 [main] BaseTest - Test Info
+[WARN ] 2025-03-14 21:01:30.808 [main] BaseTest - Test Warn
+[ERROR] 2025-03-14 21:01:30.808 [main] BaseTest - Test Error
+[FATAL] 2025-03-14 21:01:30.808 [main] BaseTest - Test Fatal
